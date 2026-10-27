@@ -1,0 +1,27 @@
+# Ambientes virtuais
+venv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Arquivos temporários do app
+uploads/
+converted/
+*.tmp
+*.raw.docx
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# IDEs
+.vscode/
+.idea/
